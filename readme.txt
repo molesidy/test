@@ -12,4 +12,4 @@ test coding now but fix bug in other branches.
 
 update to this readme.txt.
 
-test after creating new branch b2.
+test after creating new branch b2.just test.
