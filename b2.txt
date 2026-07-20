@@ -1,3 +1,5 @@
 create b2.txt in b2 firstly.
 
 fixed bug001 in issue001.
+
+update b2.txt in new b2.just test.
